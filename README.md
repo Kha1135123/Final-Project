@@ -11,6 +11,9 @@ Content
 - This dataset contains three sets of data from Food.com:
 Interaction splits
 ```
-interactions_test.csv
+- interactions_test.csv
+```
+```
+- interactions_validation.csv
 ```
 
