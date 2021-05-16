@@ -16,4 +16,13 @@ Interaction splits
 ```
 - interactions_validation.csv
 ```
-
+```
+- interactions_train.csv
+```
+Preprocessed data
+```
+- PP_recipes.csv
+```
+```
+- PP_users.csv
+```
