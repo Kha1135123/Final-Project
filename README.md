@@ -1,6 +1,7 @@
 # Final-Project
 ## Abstract
 - This project is a Food Recommender System using LightFM 
+- Key result: 
 
 ## Content
 - The data used in this project: https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions
