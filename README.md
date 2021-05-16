@@ -1,7 +1,9 @@
 # Final-Project
 ## Abstract
-- This project is a Food Recommender System using LightFM 
+- This project is a Food Recommender System using LightFM
+- Method: extract item-user features from dataset, using LightFM Module
 - Key result: 
+- 
 
 ## Content
 - The data used in this project: https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions
@@ -19,12 +21,12 @@ https://www.aclweb.org/anthology/D19-1613/
 - Demo UI using Gradio
 
 How to use:
-For new users:
+- For new users:
 
-Tick New to FuKaKukku checkbox and type your new user name to register
-Untick New to FUKKAKUKKU and Re-submit
-The Recommender System will give you items you might like.
-For registered users:
+. Tick New to FuKaKukku checkbox and type your new user name to register
+. Untick New to FUKKAKUKKU and Re-submit
+. The Recommender System will give you items you might like.
+- For registered users:
 
-Type your username to the textbox and the Recommender System will do the rest.
-Of course this demo is solely for demo purpose, as the name suggested. We can not rate items using this interface as Gradio module has its own limit.
+. Type your username to the textbox and the Recommender System will do the rest.
+. Of course this demo is solely for demo purpose, as the name suggested. We can not rate items using this interface as Gradio module has its own limit.
