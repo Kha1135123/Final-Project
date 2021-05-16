@@ -26,3 +26,19 @@ Preprocessed data
 ```
 - PP_users.csv
 ```
+
+
+
+
+- Demo UI using Gradio
+
+How to use:
+For new users:
+
+Tick New to FuKaKukku checkbox and type your new user name to register
+Untick New to FUKKAKUKKU and Re-submit
+The Recommender System will give you items you might like.
+For registered users:
+
+Type your username to the textbox and the Recommender System will do the rest.
+Of course this demo is solely for demo purpose, as the name suggested. We can not rate items using this interface as Gradio module has its own limit.
