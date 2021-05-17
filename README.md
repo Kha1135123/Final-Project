@@ -9,6 +9,10 @@
 	- [SciPy](https://www.scipy.org/)
 - We have created a model which can bring out recommendations for users, but can only handle cold-start to a low degree.
 
+## Introduction
+- Food is an indisputable part of life, and better food means better life. 
+- This recommender system might be what humanity need.
+- This Notebook contains a RecSys using LightFM model for a combination of Collaborative Filtering and Content-based Filtering
 ## Content
 ### Data
 - The data used in this project: https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions
@@ -34,7 +38,8 @@ https://www.aclweb.org/anthology/D19-1613/
 - Exported Files: 
 	- [Item Features](https://drive.google.com/file/d/1-2NHRb9oGlH7_3bWAeLoKcZ5xpbp0O0m/view?usp=sharing)
 	- [User Features](https://drive.google.com/file/d/1-1yw5LwCm8ryhPZKkmJRNicLKNiVHdE0/view?usp=sharing)
-
+- [Updates since last Capstone Project Presentation](https://github.com/Kha1135123/FoodRecommenderSystem_FinalProject/blob/main/changes.md) 
+	
 ### Note: 
 - **References:** 
  	- https://github.com/aayushmnit/cookbook/blob/master/recsys.py, line 33-62, line 81-123
