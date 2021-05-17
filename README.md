@@ -6,6 +6,7 @@
 	- [LightFM](https://making.lyst.com/lightfm/docs/home.html)
 	- [Pandas](https://pandas.pydata.org/)
 	- [Gradio](https://www.gradio.app/)
+	- [SciPy](https://www.scipy.org/)
 - We have created a model which can bring out recommendations for users, but can only handle cold-start to a low degree.
 
 ## Content
@@ -19,18 +20,29 @@ EMNLP, 2019
 https://www.aclweb.org/anthology/D19-1613/
 ```
 - Train-Test-Validation interactions of the dataset were merged to one interactions. The full merged interactions was first split to train and test sets for demonstration purpose, but The Recommender System use the whole merged interactions for training. 
-- We created a [Demo Data]() for demonstration.
+- We created a [Demo Data](https://github.com/Kha1135123/FoodRecommenderSystem_FinalProject/blob/main/Demo_file.csv) for demonstration.
 
 ### Code and Presentation
 - [Link to Presentation slide](https://hackmd.io/@Kha/BkUvYPqeO#/)
 
 - Codes:
-	- [Items Features](https://github.com/Kha1135123/Final-Project/blob/main/create_item_features.py): Create a matrix which contains item's weights over features 
-	- [Users Features](https://github.com/Kha1135123/Final-Project/blob/main/create_user_features.py): Create a matrix which contains user's weights over features
+	- [Create Items Features](https://github.com/Kha1135123/Final-Project/blob/main/create_item_features.py): Create a matrix which contains item's weights over features 
+	- [Create Users Features](https://github.com/Kha1135123/Final-Project/blob/main/create_user_features.py): Create a matrix which contains user's weights over features
 	- [Recommender System](https://github.com/Kha1135123/Final-Project/blob/main/create_recsys.py): Make recommends based on predicted scores of LightFM models.
 	- [Full source code used in this Project](): A Jupyter notebooks contains all the codes of the project with a Gradio UI to demo the results (Instruction included).
 
+- Exported Files: 
+	- [Item Features]()
+	- [User Features]()
 
+### Note: 
+- **References:** 
+ 	- https://github.com/aayushmnit/cookbook/blob/master/recsys.py, line 33-62, line 81-123
+	- https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions
+- For time-saving purpose, you can import item and user features used in this notebooks using Pandas:
+	```
+	df = pd.read('file name.csv')
+	```
 
 
 
