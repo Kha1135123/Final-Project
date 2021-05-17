@@ -83,7 +83,7 @@ alt="FukkaKukku" width="950" height="550">
     - Giải quyết vấn đề Cold-start.
     - AUC score trên tập train - test của:
         - Collaborative Filtering (CF): 0.98 - 0.88
-        - Hybrid Model: 0.58 - 0.5012
+        - Hybrid Model: 0.53597 - 0.53274
         Tuy AUC score của CF RecSys cao hơn nhưng Hybrid Model đưa ra dự đoán hợp lý hơn với người dùng.
 
 ---
