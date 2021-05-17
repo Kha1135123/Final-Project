@@ -20,7 +20,7 @@ https://www.aclweb.org/anthology/D19-1613/
 
 DataFrame: csv file, so we use Pandas DataFrame to sort value
 
-Feature map: extracting feature 
+Feature map: extracting feature like interactions feature, rating, food type,...
 
 Utility matrix: interactions between users and items, splits into training and testing set
 
