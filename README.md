@@ -29,7 +29,7 @@ https://www.aclweb.org/anthology/D19-1613/
 	- [Create Items Features](https://github.com/Kha1135123/Final-Project/blob/main/create_item_features.py): Create a matrix which contains item's weights over features 
 	- [Create Users Features](https://github.com/Kha1135123/Final-Project/blob/main/create_user_features.py): Create a matrix which contains user's weights over features
 	- [Recommender System](https://github.com/Kha1135123/Final-Project/blob/main/create_recsys.py): Make recommends based on predicted scores of LightFM models.
-	- [Full source code used in this Project](): A Jupyter notebooks contains all the codes of the project with a Gradio UI to demo the results (Instruction included).
+	- [Full source code used in this Project](https://github.com/Kha1135123/FoodRecommenderSystem_FinalProject/blob/main/FinalProject.ipynb): A Jupyter notebooks contains all the codes of the project with a Gradio UI to demo the results (Instruction included).
 
 - Exported Files: 
 	- [Item Features](https://drive.google.com/file/d/1-2NHRb9oGlH7_3bWAeLoKcZ5xpbp0O0m/view?usp=sharing)
@@ -43,6 +43,11 @@ https://www.aclweb.org/anthology/D19-1613/
 	```
 	df = pd.read('file name.csv')
 	```
-
-
+- Go to [Kaggle](https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions) to download the zip dataset file and unzip in the Jupyter Notebook by: 
+	```
+	!unzip 'file name.zip'
+	```
+### Author of this Project
+- Tran Thien Phu (also known as Paul Tran) - Class 11CTRN - Le Hong Phong High School for the Gifted - Ho Chi Minh City, Vietnam.
+- Nguyen Manh Kha - Class 11CTRN - Le Hong Phong High School for the Gifted - Ho Chi Minh City, Vietnam.
 
