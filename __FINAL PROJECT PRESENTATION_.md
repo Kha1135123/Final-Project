@@ -119,18 +119,8 @@ alt="FuKaKuKKu"
 
 - Link to [Google Colaboratory Notebook](https://colab.research.google.com/drive/12iekGMM91SJrE0vqo9hK4i5P_t7tcF-G#scrollTo=tg4ac5NwnGjL)
 
----
 
 
-
-
-# Kết quả đạt được
-
-
-
-
-<img src="https://i.imgur.com/TxJFnxk.png" 
-     alt="FukkaKukku" width="580" height="530"> 
 
 
 
