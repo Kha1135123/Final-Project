@@ -32,8 +32,8 @@ https://www.aclweb.org/anthology/D19-1613/
 	- [Full source code used in this Project](): A Jupyter notebooks contains all the codes of the project with a Gradio UI to demo the results (Instruction included).
 
 - Exported Files: 
-	- [Item Features](https://github.com/Kha1135123/FoodRecommenderSystem_FinalProject/blob/main/features%20matrixes/ItemsEmbedding.csv)
-	- [User Features](https://github.com/Kha1135123/FoodRecommenderSystem_FinalProject/blob/main/features%20matrixes/UsersEmbedding.csv)
+	- [Item Features](https://drive.google.com/file/d/1-2NHRb9oGlH7_3bWAeLoKcZ5xpbp0O0m/view?usp=sharing)
+	- [User Features](https://drive.google.com/file/d/1-1yw5LwCm8ryhPZKkmJRNicLKNiVHdE0/view?usp=sharing)
 
 ### Note: 
 - **References:** 
