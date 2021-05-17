@@ -50,7 +50,7 @@ FukaKukku
 
 
 <img src="https://i.imgur.com/bviWjwp.gif" 
-alt="FuKaKuKKu" title="FuKaKukku" width="1100" height="560" >
+alt="FuKaKuKKu" width="1100" height="560" >
 
 
 
