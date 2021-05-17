@@ -91,6 +91,7 @@ FukaKukku
 
 - Thành viên:
   . Nguyễn Mạnh Kha
+  
   . Trần Thiên Phú
 - Project: Food Recommender System
 - Mục đích: Phục vụ cho những người dùng đang phân vân về việc chọn món ăn.
