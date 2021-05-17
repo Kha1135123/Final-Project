@@ -17,7 +17,7 @@ Source Data: https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-intera
 ### LightFM Implementation
 """
 
-!pip install -qq lightfm
+pip install -qq lightfm
 
 from lightfm import LightFM
 from lightfm.cross_validation import random_train_test_split
@@ -90,13 +90,13 @@ def recommendation(model, interactions, user_id, item_dict,threshold = 0,nrec_it
     counter+=
   return output
 
-pip install -qq gradio
-
 name_dict = {}
-import gradio as gr
 import random
 
 def username(name,name_dict):
+   '''
+    Function to generate unique new id for a user
+   '''
   from random import randint
   new_i = len(user_dict)
   new_id = randint(0,1e7)
@@ -107,6 +107,9 @@ def username(name,name_dict):
 
   return name, new_id
 def generate_id(name):
+    '''
+    Function to display output for new user 
+    '''
     new, user_id = username(name,name_dict)
     out = 'Welcome to FuKaKukku!\n'
     out += '------------------------------\n'
@@ -115,6 +118,9 @@ def generate_id(name):
     out += 'Please sign in to join FukkaKukku!'
     return out
 def recommend(are_you_new,name,veg,healthy,dsrt):
+    '''
+    Function to make recommendations for users or create new users' initial estimated features and ids for recommendations.
+    '''
   if are_you_new: 
     if name in name_dict:
       return 'Username already existed!'
