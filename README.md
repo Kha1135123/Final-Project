@@ -11,7 +11,7 @@
 
 ## Introduction
 - Food is an indisputable part of life, and better food means better life. 
-- This recommender system might be what humanity need.
+- This recommender system might be what humanity need, and also for people who are having troubles to choose what to enjoy.
 - This Notebook contains a RecSys using LightFM model for a combination of Collaborative Filtering and Content-based Filtering
 ## Content
 ### Data
