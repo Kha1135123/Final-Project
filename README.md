@@ -33,4 +33,6 @@ How to use:
 
 . Type your username to the textbox and the Recommender System will do the rest.
 
+https://hackmd.io/@Kha/BkUvYPqeO#/
+
 . Of course this demo is solely for demo purpose, as the name suggested. We can not rate items using this interface as Gradio module has its own limit.
