@@ -1,14 +1,4 @@
----
-tags: COTAI AI4HighSchool
-slideOptions:
-  transition: slide
-  width: 1920
-  height: 1080
-  margin: 0.1
-  minScale: 0.2
-  maxScale: 1.5
-  
----
+
 
 
 <h1><center>
@@ -39,8 +29,10 @@ FukaKukku
 
 
 - Thành viên:
+
   . Nguyễn Mạnh Kha
-  . Trần Thiên Phú
+
+. Trần Thiên Phú
 - Project: Food Recommender System
 - Mục đích: Phục vụ cho những người dùng đang phân vân về việc chọn món ăn.
 
@@ -81,8 +73,8 @@ FukaKukku
 
 # LightFM - Hybrid Models
 
-<img src="https://i.imgur.com/o1JG8vl.png
-" alt="FukkaKukku" width="950" height="550"> 
+<img src="https://i.imgur.com/o1JG8vl.png"
+alt="FukkaKukku" width="950" height="550"> 
 
 ----
 
@@ -102,8 +94,8 @@ FukaKukku
 - Dataset: [Link to dataset](https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions) 
 <br>
 
-<img src="https://i.imgur.com/jBuTYhZ.png
-" alt="FuKaKuKKu"
+<img src="https://i.imgur.com/jBuTYhZ.png"
+alt="FuKaKuKKu"
 	title="FuKaKukku" width="800" height="450" >
 <br>
 
@@ -160,8 +152,8 @@ FukaKukku
 
 
 ---
-<img src="https://i.imgur.com/2hqtz5L.png
-" alt="FuKaKuKKu"
+<img src="https://i.imgur.com/2hqtz5L.png"
+alt="FuKaKuKKu"
 	title="FuKaKukku" width="700" height="750" >
 
 
