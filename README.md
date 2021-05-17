@@ -87,7 +87,7 @@ FukaKukku
 <img src="https://i.imgur.com/RTJdLnG.png" 
      alt="FukkaKukku" width="800" height="450"> 
 </center>
-https://i.imgur.com/RTJdLnG.png
+
 
 - Thành viên:
   . Nguyễn Mạnh Kha
@@ -132,8 +132,8 @@ https://i.imgur.com/RTJdLnG.png
 
 # LightFM - Hybrid Models
 
-<img src="https://i.imgur.com/o1JG8vl.png
-" alt="FukkaKukku" width="950" height="550"> 
+<img src="https://i.imgur.com/o1JG8vl.png"
+alt="FukkaKukku" width="950" height="550"> 
 
 ----
 
@@ -153,8 +153,8 @@ https://i.imgur.com/RTJdLnG.png
 - Dataset: [Link to dataset](https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions) 
 <br>
 
-<img src="https://i.imgur.com/jBuTYhZ.png
-" alt="FuKaKuKKu"
+<img src="https://i.imgur.com/jBuTYhZ.png"
+alt="FuKaKuKKu"
 	title="FuKaKukku" width="800" height="450" >
 <br>
 
@@ -211,8 +211,8 @@ https://i.imgur.com/RTJdLnG.png
 
 
 ---
-<img src="https://i.imgur.com/2hqtz5L.png
-" alt="FuKaKuKKu"
+<img src="https://i.imgur.com/2hqtz5L.png"
+alt="FuKaKuKKu"
 	title="FuKaKukku" width="700" height="750" >
 
 
