@@ -125,11 +125,11 @@ alt="FuKaKuKKu"
 
 # Kết quả đạt được
 
-![](https://i.imgur.com/TxJFnxk.png)
 
 
 
-
+<img src="https://i.imgur.com/TxJFnxk.png" 
+     alt="FukkaKukku" width="580" height="530"> 
 
 
 
