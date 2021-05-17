@@ -59,17 +59,7 @@ How to use:
 
 
 
----
-tags: COTAI AI4HighSchool
-slideOptions:
-  transition: slide
-  width: 1920
-  height: 1080
-  margin: 0.1
-  minScale: 0.2
-  maxScale: 1.5
-  
----
+
 
 
 <h1><center>
