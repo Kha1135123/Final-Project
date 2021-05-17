@@ -33,7 +33,7 @@ https://www.aclweb.org/anthology/D19-1613/
 
 - Exported Files: 
 	- [Item Features](https://github.com/Kha1135123/FoodRecommenderSystem_FinalProject/blob/main/features%20matrixes/ItemsEmbedding.csv)
-	- [User Features]()
+	- [User Features](https://github.com/Kha1135123/FoodRecommenderSystem_FinalProject/blob/main/features%20matrixes/UsersEmbedding.csv)
 
 ### Note: 
 - **References:** 
