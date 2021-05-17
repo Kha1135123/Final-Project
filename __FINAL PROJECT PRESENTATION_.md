@@ -49,7 +49,8 @@ FukaKukku
 - Sử dụng mô hình LightFM để tạo một Recommender System.
 
 
-<img src="https://i.imgur.com/bviWjwp.gif" alt="FuKaKuKKu"
+<img src="https://i.imgur.com/bviWjwp.gif" 
+alt="FuKaKuKKu"
 	title="FuKaKukku" width="1100" height="560" >
 
 
