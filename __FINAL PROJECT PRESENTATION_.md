@@ -125,7 +125,7 @@ alt="FuKaKuKKu"
 
 # Kết quả đạt được
 
-![](https://i.imgur.com/k8K2lqm.png)
+![](https://i.imgur.com/TxJFnxk.png)
 
 
 
