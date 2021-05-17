@@ -18,6 +18,11 @@ https://www.aclweb.org/anthology/D19-1613/
 
 - Codes
 
+DataFrame: csv file, so we use Pandas DataFrame to sort value
+
+Feature map: extracting feature 
+
+Utility matrix: interactions between users and items, splits into training and testing set
 
 
 
