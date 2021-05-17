@@ -16,16 +16,16 @@ https://www.aclweb.org/anthology/D19-1613/
 
 - [Link to slide](https://hackmd.io/@Kha/BkUvYPqeO#/)
 
-- Codes
+## Overall
 
-DataFrame: csv file, so we use Pandas DataFrame to sort value
+- DataFrame: csv file, so we use Pandas DataFrame to sort value
 
-Feature map: extracting feature like interactions feature, rating, food type,...
+- Feature map: extracting feature like interactions feature, rating, food type,...
 
-Utility matrix: interactions between users and items, splits into training and testing set
+- Utility matrix: interactions between users and items, splits into training and testing set
 
 
-- Demo UI using Gradio
+## Demo UI using Gradio
 
 How to use:
 - For new users:
