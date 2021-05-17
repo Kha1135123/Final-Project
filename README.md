@@ -43,7 +43,7 @@ https://www.aclweb.org/anthology/D19-1613/
 ### Note: 
 - **References:** 
  	- https://github.com/aayushmnit/cookbook/blob/master/recsys.py, line 33-62, line 81-123
-	- [^1]: *Description* [Food.com Recipes and Interactions](https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions)
+	- [^1]: *Description* ,[Food.com Recipes and Interactions](https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions)
 - For time-saving purpose, you can import item and user features used in this notebooks using Pandas:
 	```
 	df = pd.read('file name.csv')
