@@ -16,7 +16,7 @@
 ## Content
 ### Data
 - The data used in this project: https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions
-- * This dataset consists of 180K+ recipes and 700K+ recipe reviews covering 18 years of user interactions and uploads on Food.com (formerly GeniusKitchen) used in the following paper: 
+- This dataset consists of 180K+ recipes and 700K+ recipe reviews covering 18 years of user interactions and uploads on Food.com (formerly GeniusKitchen) used in the following paper: 
 ```
 Generating Personalized Recipes from Historical User Preferences
 Bodhisattwa Prasad Majumder*, Shuyang Li*, Jianmo Ni, Julian McAuley
@@ -43,7 +43,7 @@ https://www.aclweb.org/anthology/D19-1613/
 ### Note: 
 - **References:** 
  	- https://github.com/aayushmnit/cookbook/blob/master/recsys.py, line 33-62, line 81-123
-	- * https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions
+	- https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions
 - For time-saving purpose, you can import item and user features used in this notebooks using Pandas:
 	```
 	df = pd.read('file name.csv')
