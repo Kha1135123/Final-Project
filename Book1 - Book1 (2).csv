@@ -1,0 +1,154 @@
+user_name,recipe_id,i,rating,Note
+Mai,186383,105140,4,Dessert
+Mai,288683,38144,3.5,Dessert
+Mai,60244,74743,0,Dessert
+Mai,281968,139097,2.5,Dessert
+Mai,293330,54812,3,Dessert
+Mai,285087,93549,4,Dessert
+Mai,257310,43147,4,Dessert
+Mai,92023,99316,1,Dessert
+Mai,54410,178078,2,Dessert
+Mai,383303,167890,1,Dessert
+Mai,72916,29502,4.5,Dessert
+Mai,391271,115134,3.5,Dessert
+Mai,54431,73771,5,Dessert
+Mai,36333,3087,5,Dessert
+Mai,123937,86907,5,Dessert
+Mai,140961,109560,3.5,Dessert
+Mai,321245,65550,2,Dessert
+Mai,201030,49498,4.5,Dessert
+Mai,415278,22783,3.5,Dessert
+Mai,235184,52413,2.5,Dessert
+Mai,23197,145968,4.5,Dessert
+Mai,317899,154062,5,Dessert
+Mai,257113,92589,5,Dessert
+Mai,448978,128588,5,Dessert
+Mai,46025,137281,5,Dessert
+Mai,321255,6398,5,Dessert
+Mai,380925,61463,5,Dessert
+Long,69436,106465,4,Healthy
+Long,356953,62362,4.5,Healthy
+Long,305135,83000,5,Healthy
+Long,504329,160455,4,Healthy
+Long,250063,168080,3.5,Healthy
+Long,277747,10707,5,Healthy
+Long,90000,89218,4.5,Healthy
+Long,344757,115004,4,Healthy
+Long,461449,8614,0,Non_veg
+Long,483476,167585,0,Non_veg
+Long,152450,152280,1,Non_veg
+Long,403652,40628,2,Non_veg
+Long,141106,168757,3,Non_veg
+Long,305393,26086,2,Non_veg
+Long,333705,135510,1,Non_veg
+Long,59541,42946,0,Non_veg
+Minh,84401,124599,1,Veg
+Minh,120122,165993,4,Veg
+Minh,473932,39477,2,Veg
+Minh,155411,156172,3.5,Veg
+Minh,19485,362,0,Veg
+Minh,227025,93854,5,Veg
+Minh,34331,12507,2,Healthy
+Minh,61723,101369,4.5,Healthy
+Minh,108065,39357,3,Healthy
+Minh,484058,38369,0,Healthy
+Minh,203634,67141,1,Healthy
+Minh,293330,54812,3,Veg dessert
+Minh,285087,93549,2.5,Veg dessert
+Minh,257310,43147,3,Veg dessert
+Minh,92023,99316,4,Veg dessert
+Minh,54410,178078,2,Veg dessert
+Thanh,190651,129183,2,Non-Veg dessert
+Thanh,374664,44803,1.5,Non-Veg dessert
+Thanh,363369,33412,4,Non-Veg dessert
+Thanh,282376,31932,1,Non-Veg dessert
+Thanh,272232,19199,3,Non-Veg dessert
+Thanh,58902,18494,2,Healthy
+Thanh,271920,105656,4.5,Healthy
+Thanh,61962,120534,4,Healthy
+Thanh,157898,141282,2,Healthy
+Thanh,197580,150876,3.5,Healthy
+Thanh,342573,174648,3,Non_Veg
+Thanh,349944,15111,1,Non_Veg
+Thanh,402088,82907,2.5,Non_Veg
+Thanh,44107,44248,4,Non_Veg
+Thanh,25993,42152,3,Non_Veg
+Lan,65377,84273,1,Veg
+Lan,182382,49072,3.5,Veg
+Lan,271945,16431,5,Veg
+Lan,287323,19600,2,Veg
+Lan,173582,55042,2.5,Veg
+Lan,240572,41821,0,Non_veg
+Lan,19177,98884,4,Non_veg
+Lan,207258,50610,3.5,Non_veg
+Lan,426288,4595,4,Non_veg
+Lan,334469,163809,1,Healthy
+Lan,132064,149251,2,Healthy
+Lan,324118,154838,3,Healthy
+Lan,313178,95225,5,Healthy
+Ngọc,236022,50236,3,Healthy
+Ngọc,439096,126902,3,Healthy
+Ngọc,118963,58441,1,Healthy
+Ngọc,16501,119173,4.5,Healthy
+Ngọc,72014,53143,2,Healthy
+Ngọc,450478,49999,1.5,Veg
+Ngọc,381150,72435,4,Veg
+Ngọc,135882,86278,3,Veg
+Ngọc,156337,17682,2,Veg
+Ngọc,58376,21348,2,Non_veg
+Ngọc,273859,53127,1.5,Non_veg
+Ngọc,139922,34490,4,Non_veg
+Ngọc,480021,956,3.5,Non_veg
+Khang,455091,131103,2,Healthy
+Khang,16696,6444,5,Healthy
+Khang,178553,121848,4.5,Healthy
+Khang,385728,77277,3,Healthy
+Khang,388138,94265,1,Healthy
+Khang,46025,137281,4,Veg dessert
+Khang,321255,6398,3,Veg dessert
+Khang,380925,61463,2,Veg dessert
+Khang,20233,36212,0,Veg dessert
+Khang,129345,66593,4.5,Non_veg
+Khang,53639,13105,2,Non_veg
+Khang,236352,134561,4,Non_veg
+Khang,370097,82118,2.5,Non_veg
+Linh,127923,12621,0,Veg
+Linh,98277,170768,4,Veg
+Linh,27948,3266,3,Veg
+Linh,426686,80495,2.5,Veg
+Linh,214574,98113,2,Veg
+Linh,232351,33925,1,Healthy
+Linh,178286,145677,4,Healthy
+Linh,218204,148206,3,Healthy
+Linh,187034,82001,3.5,Healthy
+Linh,104139,87959,0,Healthy
+Linh,26172,105394,4.5,Non_veg
+Linh,98299,168069,2,Non_veg
+Linh,418338,32602,1,Non_veg
+Linh,36323,159871,3.5,Non_veg
+Hưng,149659,71641,4,Non-Veg dessert
+Hưng,297684,163499,2,Non-Veg dessert
+Hưng,289145,34340,0,Non-Veg dessert
+Hưng,156162,3160,2,Non-Veg dessert
+Hưng,414222,73692,4,Veg
+Hưng,160868,27516,3.5,Veg
+Hưng,468577,104702,1,Veg
+Hưng,313562,60016,4.5,Veg
+Hưng,69990,27226,2,Healthy
+Hưng,325277,25798,2.5,Healthy
+Hưng,381356,7945,1,Healthy
+Hưng,196213,70723,4,Healthy
+Hưng,233261,19596,5,Healthy
+An,48201,89678,1,Veg
+An,311057,55192,4.5,Veg
+An,296559,41658,2,Veg
+An,155196,162289,2,Veg
+An,357698,8804,3,Veg
+An,290801,36990,4,Veg dessert
+An,120882,94352,2.5,Veg dessert
+An,158216,171295,3.5,Veg dessert
+An,450716,92941,4,Veg dessert
+An,78538,27487,5,Healthy
+An,88906,101591,2,Healthy
+An,188204,156487,3,Healthy
+An,211438,101049,3.5,Healthy
