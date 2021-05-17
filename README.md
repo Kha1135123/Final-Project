@@ -84,10 +84,10 @@ Link to [slide](https://hackmd.io/@Kha/BkUvYPqeO#/)
 FukaKukku
 </h4></center>
 <center>
-<img src="https://i.imgur.com/RTJdLnG.png
-" alt="FukkaKukku" width="800" height="450"> 
+<img src="https://i.imgur.com/RTJdLnG.png" 
+     alt="FukkaKukku" width="800" height="450"> 
 </center>
-
+https://i.imgur.com/RTJdLnG.png
 
 - Thành viên:
   . Nguyễn Mạnh Kha
