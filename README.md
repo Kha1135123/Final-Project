@@ -3,7 +3,6 @@
 - This project is a Food Recommender System using LightFM
 - Method: extract item-user features from dataset, using LightFM Module
 - Key result: 
-- 
 
 ## Content
 - The data used in this project: https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions
